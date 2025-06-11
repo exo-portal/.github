@@ -26,6 +26,27 @@ Exo Portal is a robust platform powered by **Next.js** (frontend) and **Spring B
 
 <p align="center">
     <!-- Frontend -->
+    <a href="https://nuxt.com/" target="_blank">
+        <img src="https://nuxt.com/icon.png" alt="Nuxt.js" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://vuejs.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://www.shadcn-vue.com/" target="_blank">
+        <img src="https://www.shadcn-vue.com/favicon.ico" alt="Shadcn Vue" height="40"/>
+    </a>
+    &nbsp;
+        &nbsp;
+    <a href="https://vee-validate.logaretm.com/" target="_blank">
+        <img src="https://vee-validate.logaretm.com/v4/logo.png" alt="VeeValidate" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://vueuse.org/" target="_blank">
+        <img src="https://vueuse.org/favicon.svg" alt="VueUse" height="40"/>
+    </a>
+    &nbsp;
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" height="40"/>
     </a>
