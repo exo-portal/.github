@@ -137,9 +137,13 @@ Exo Common is a shared library for Exo services, housing database models, utilit
 
 Exo Auth is the authentication service for Exo, supporting HttpOnly cookies, JWT, and OAuth for secure and flexible user authentication. It ensures robust access control and seamless integration across Exo services.
 
-#### [Exo-UI](https://github.com/exo-portal/exo-ui)
+#### [Exo-UI-Next](https://github.com/exo-portal/exo-ui-next)
 
-Exo UI is a modern organizational portal featuring DTR (Daily Time Record) management and multi-authentication (OAuth and email). It serves as the frontend for Exo Backend services.
+exo-ui-portal is a modern organizational portal built with Next.js, featuring Daily Time Record (DTR) management and multi-authentication (OAuth and email). It serves as the frontend for Exo Backend services.
+
+#### [Exo-UI-Nuxt](https://github.com/exo-portal/exo-ui-nuxt)
+
+exo-ui-portal is a modern organizational portal built with Nuxt.js, featuring Daily Time Record (DTR) management and multi-authentication (OAuth and email). It serves as the frontend for Exo Backend services.
 
 ---
 
